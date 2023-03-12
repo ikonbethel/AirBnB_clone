@@ -2,13 +2,12 @@
 """
 Module BaseModel class
 """
-from cmd import Cmd
 from uuid import uuid4
 from datetime import datetime
 import models
 
 
-class BaseModel(Cmd):
+class BaseModel():
     """Base class for Airbnb clone project
     Methods:
         __inint__(self, *args, **kwargs)
