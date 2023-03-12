@@ -3,7 +3,8 @@
 Module City class
 """
 
+class City(BaseModel):
+    """Class for managing city objects"""
 
-class City():
     state_id = ""
     name = ""
