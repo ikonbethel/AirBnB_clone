@@ -7,4 +7,3 @@ examples:
 (hbnb) help
 (hbnb) help quit
 (hbnb) quit
-
