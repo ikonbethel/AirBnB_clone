@@ -5,5 +5,5 @@ If you type "help" it will list you the available commands. If you type
 
 examples:
 (hbnb) help
-(hbnb) help quit
+(hbnb) help quit  >>> outputs information about the quit command
 (hbnb) quit >>> exists the program
