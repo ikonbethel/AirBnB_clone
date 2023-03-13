@@ -6,4 +6,4 @@ If you type "help" it will list you the available commands. If you type
 examples:
 (hbnb) help
 (hbnb) help quit
-(hbnb) quit
+(hbnb) quit >>> exists the program
