@@ -4,6 +4,6 @@ If you type "help" it will list you the available commands. If you type
 "help <cmd>" then it will show a brief explanation of what the command does
 
 examples:
-(hbnb) help
+(hbnb) help >>> outputs list of available commands
 (hbnb) help quit  >>> outputs information about the quit command
 (hbnb) quit >>> exists the program
